@@ -71,6 +71,7 @@
 
     .container-services-flex{
         flex-direction: column;
+        width: 80%;
     }
 
     .container-skills-flex{
