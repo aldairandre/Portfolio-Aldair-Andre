@@ -4,6 +4,7 @@
 @media screen and (max-width:768px) {
     header {
         width: 100%;
+        padding: 2%;
     }
     
     .container-nav {
@@ -63,10 +64,9 @@
 
     .services-info {
         width: 100%;
+        height: auto;
         font-size: 1.5rem;
-        line-height: 42px;
-        color: #828282;
-        padding-left: 30px;
+        padding: 10%;
      }
 
     .container-services-flex{

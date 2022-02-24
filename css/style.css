@@ -178,11 +178,8 @@ ul {
 }
 
 .services-info-image {
-   background: #212121;
    display: block;
-   margin: 44px 0;
-   width: 60px;
-   height: 60px;
+   font-size: 4rem;
 }
 
 .services-info {
