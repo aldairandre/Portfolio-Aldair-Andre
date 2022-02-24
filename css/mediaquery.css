@@ -35,8 +35,9 @@
         padding: 15.6%;
     }
 
-    .container-nav i {
+    .container-nav .menu-icon {
         z-index: 2;
+        font-size: 2rem;
     }
 
     /*Main*/
