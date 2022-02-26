@@ -29,7 +29,7 @@
 
 .container-project {
     flex-wrap: wrap;
-    gap: 30px; /* Pesquisar sobre */
+    gap: 30px; 
     display: flex;
     justify-content: center;
 }
