@@ -51,6 +51,10 @@
     .about-me-container {
         justify-content: center;
     }
+
+    .container-apresentacao {
+        padding: 6%;
+    }
     
     .container-paragraph {
         width:100%;

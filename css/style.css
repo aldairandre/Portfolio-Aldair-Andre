@@ -99,7 +99,6 @@ ul {
    font-style: normal;
    font-weight: bold;
    font-size: 32px;
-   line-height: 42px;
 }
 
 .aboutMe-paragraph {
@@ -107,6 +106,7 @@ ul {
    font-weight: normal;
    font-size: 18px;
    line-height: 32px;
+   text-align: justify;
 }
 
 
