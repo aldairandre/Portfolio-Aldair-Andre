@@ -18,7 +18,7 @@ function Main(){
 
             <WorkTogether/>
     
-  </main>
+        </main>
     )
 }
 
