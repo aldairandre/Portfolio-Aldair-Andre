@@ -1,6 +1,4 @@
-import "./css/style.css";
-import "./css/flexbox.css";
-import "./css/mediaquery.css";
+import './footer-style.css';
 
 function Footer(){
     return(

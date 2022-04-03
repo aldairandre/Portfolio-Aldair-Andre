@@ -1,12 +1,11 @@
-import './css/style.css';
-import './css/flexbox.css';
-import './css/mediaquery.css';
+import './header-style.css';
+
 
 function Header(){
     return(
         <header>
+            <h1>Portfólio</h1>
             <nav className="container-nav">
-                <h1>Portfólio</h1>
                 <ul>
                     <li className="nav-items"><a href="#aboutMe">Sobre mim</a></li>
                     <li className="nav-items"><a href="#projects">Projetos</a></li>

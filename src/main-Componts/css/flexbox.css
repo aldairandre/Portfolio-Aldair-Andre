@@ -1,15 +1,3 @@
-.container-header {
-    display: flex;
-    justify-content: space-around;
-}
-
-.container-header > ul {
-    display: flex;
-}
-
-.nav-items {
-    margin-left: 45px;
-}
 
 .container-apresentacao {
     text-align: center;
