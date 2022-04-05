@@ -3,6 +3,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 10px 30px;
+    position: absolute;
 }
 
 .container-nav{
@@ -16,6 +18,9 @@ header {
     
 }
 
+.container-nav ul li {
+    font-size: 1.3rem;
+}
 
 .container-nav ul li a {
     text-decoration: none;
