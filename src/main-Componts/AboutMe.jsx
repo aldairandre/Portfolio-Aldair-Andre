@@ -3,7 +3,7 @@ import "./css/AboutMe-style.css";
 
 export default function AboutMe(){
     return(  
-        <section className="container-apresentacao">
+        <section className="container-apresentacao1">
             <article className="about-me-container">
                 <h2 className="titles">Olá, eu sou o Aldair André</h2>
                 <p className="apresentation-paragraph">Desenvolvedor Front-End</p>
