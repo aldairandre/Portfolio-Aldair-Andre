@@ -11,7 +11,7 @@ export default function AboutMe(){
                 <a className="link-download" href="./assets/Lucas Santos Rodrigues.pdf">Download CV</a>
                 </button>
                 <button className="button" id="contact-button">
-                <a className="link-whatsapp" href="https://api.whatsapp.com/send?phone=5511996987610" target="_blank" >Entrar em contato</a>
+                <a className="link-whatsapp" href="" target="_blank" >Entrar em contato</a>
                 </button>
             </article>
         </section>
