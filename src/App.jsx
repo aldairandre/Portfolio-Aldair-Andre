@@ -4,7 +4,7 @@ import Main from './main-components';
 
 function App(){
   return(
-    <div className='Container-app'>
+    <div className='Container-app' style={{position:'relative'}}>
       <Header/>
       <Main/>
       <Footer/>
