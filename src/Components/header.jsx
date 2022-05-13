@@ -1,7 +1,6 @@
-import './header-style.css';
+import './css/header-style.css';
 
-const activeMenu = () => document.getElementById('ul-navList').classList.add('active')
-const removeMenu = () => document.getElementById('ul-navList').classList.remove('active')
+const activeMenu = () => document.getElementById('ul-navList').classList.toggle('active')
 
 
 function Header(){
@@ -14,10 +13,9 @@ function Header(){
                     <li className="nav-items"><a href="#projects">Projetos</a></li>
                     <li className="nav-items"><a href="#services">Serviços</a></li>
                     <li className="nav-items"><a href="#skills">Minhas Skills</a></li>
-                    <li><i className='remove-menu-btn' onClick={removeMenu}>X</i></li>
                 </ul>
-                <i className="bi bi-list menu-icon" id="menu-icon-btn" onClick={activeMenu}></i>
             </nav>
+            <i className="bi bi-list menu-icon" id="menu-icon-btn" onClick={activeMenu}></i>
         </header>
     )
 }
