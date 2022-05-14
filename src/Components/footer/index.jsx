@@ -1,4 +1,4 @@
-import {StyleFooter,StyleP,StyleSpan} from './stylefooter'
+import {StyleFooter,StyleP,StyleSpan} from './styleIndex'
 export default function Footer(){
     return(
         <StyleFooter>
