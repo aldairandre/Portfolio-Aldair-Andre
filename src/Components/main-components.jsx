@@ -1,4 +1,4 @@
-import AboutMe from './AboutMe';
+import AboutMe from './aboutme/index';
 import AboutMe2 from './AboutMe2';
 import AllProject from './AllProject';
 import AllServices from './AllServices';
