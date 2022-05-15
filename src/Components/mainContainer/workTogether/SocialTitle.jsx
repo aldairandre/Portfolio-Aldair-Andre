@@ -1,5 +1,5 @@
 import styled from "styled-components";
-
+import Social from "./Social";
 const StyleTitle = styled.h2`
     font-style: normal;
     font-weight: bold;
@@ -11,7 +11,7 @@ const StyleTitle = styled.h2`
     }
 `
 
-export default function WorkTitle(){
+export default function SocialTitle(){
     return(
         <h2 className="work-titlle">Vamos trabalhar juntos...</h2>
         )

@@ -1,15 +1,13 @@
 import Header from './Components/header/index'
 import Footer from './Components/footer/index'
-import Main from './Components/main-components';
+import Main from './Components/mainContainer/index';
 
-function App(){
+export default function App(){
   return(
-    <div className='Container-app' style={{position:'relative'}}>
+    <div>
       <Header/>
       <Main/>
       <Footer/>
     </div>
   )
 }
-
-export default App;
