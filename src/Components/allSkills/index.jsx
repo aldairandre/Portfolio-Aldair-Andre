@@ -1,6 +1,6 @@
-import "./css/style.css";
-import "./css/flexbox.css";
-import "./css/mediaquery.css";
+import "../css/style.css";
+import "../css/flexbox.css";
+import "../css/mediaquery.css";
 
 
 export default function AllSkills(){

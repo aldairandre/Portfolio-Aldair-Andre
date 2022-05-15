@@ -1,21 +1,18 @@
-import AboutMe from './banner/index';
+import Banner from './banner/index';
 import AboutMe from './aboutme/index';
 import AllProject from './allProjects/index';
-import AllServices from './AllServices';
-import AllSkills from './AllSkills';
-import WorkTitle from './WorkTitle';
-import WorkTogether from './WorkTogether';
+import AllServices from './allServices/AllServices';
+import AllSkills from './allSkills/index';
+
 
 export default function Main() {
     return(
         <main>
+            <Banner/>
             <AboutMe/>
-            <AboutMe2/>
             <AllProject/>
             <AllServices/>
             <AllSkills/>
-            <WorkTitle/>
-            <WorkTogether/>
         </main>
     )
 }

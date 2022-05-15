@@ -1,7 +1,7 @@
 import {StyleSection,StyleArticle,StyleTitle,StyleButton,StyleDownButton,StyleDownA,StyledContactButton} from "./styleIndex";
 
 
-export default function AboutMe(){
+export default function Banner(){
     return(  
         <StyleSection>
             <StyleArticle>
